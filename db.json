@@ -26,7 +26,31 @@
       "push-notification": 5,
       "inapp": 7,
       "chatbot": 25
-    }
+    },
+    "performanceChart1": [
+      {
+        "label": "My First dataset",
+        "backgroundColor": "#42A5F5",
+        "data": [65, 59, 80, 81, 56, 55, 40]
+      },
+      {
+        "label": "My Second dataset",
+        "backgroundColor": "#FFA726",
+        "data": [28, 48, 40, 19, 86, 27, 90]
+      }
+    ],
+    "performanceChart2": [
+      {
+        "label": "My First dataset",
+        "backgroundColor": "#42A5F5",
+        "data": [28, 48, 40, 19, 86, 27, 90]
+      },
+      {
+        "label": "My Second dataset",
+        "backgroundColor": "#FFA726",
+        "data": [65, 59, 80, 81, 56, 55, 40]
+      }
+    ]
   },
   "getAllPrograms": [
     { "id": "1", "name": "program1" },
@@ -36,10 +60,10 @@
     { "id": "5", "name": "program5" }
   ],
   "getAllCampaignsByProgram": [
-    {"id": "1", "name": "campaign1"},
-    {"id": "2", "name": "campaign2"},
-    {"id": "3", "name": "campaign3"},
-    {"id": "4", "name": "campaign4"},
-    {"id": "5", "name": "campaign5"}
+    { "id": "1", "name": "campaign1" },
+    { "id": "2", "name": "campaign2" },
+    { "id": "3", "name": "campaign3" },
+    { "id": "4", "name": "campaign4" },
+    { "id": "5", "name": "campaign5" }
   ]
 }
